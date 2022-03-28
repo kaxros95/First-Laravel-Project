@@ -1,0 +1,12 @@
+body {
+
+    background: linear-gradient( 128deg, rgba(34, 181, 115, 1) 0%, rgba(32, 146, 195, 1) 45%, rgba(102, 45, 145, 1) 100% );
+    color: white;
+    margin: auto;
+    font-family: sans-serif;
+    max-width: 600px;
+}
+
+p {
+    line-height: 1.5;
+}
